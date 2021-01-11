@@ -58,7 +58,7 @@ return (
     <div className="order-location-container">
         <div className="order-location-content">
             <h3 className="order-location-title">
-                Selecione o onde o pedido deve ser entrege:
+                Selecione onde o pedido deve ser entrege:
                 </h3>
             <div className="filter-container">
                 <AsyncSelect
